@@ -90,7 +90,7 @@ const technologies = [
   },
   {
     name: "Django",
-    icon: django,
+    icon: cpp,
   },
   {
     name: "FastAPI",
@@ -98,15 +98,11 @@ const technologies = [
   },
   {
     name: "C++",
-    icon: cpp,
+    icon: django,
   },
   {
     name: "PostgreSQL",
     icon: postgres,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
   },
   {
     name: "git",
