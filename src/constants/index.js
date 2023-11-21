@@ -90,7 +90,7 @@ const technologies = [
   },
   {
     name: "Django",
-    icon: cpp,
+    icon: django,
   },
   {
     name: "FastAPI",
@@ -98,7 +98,7 @@ const technologies = [
   },
   {
     name: "C++",
-    icon: django,
+    icon: cpp,
   },
   {
     name: "PostgreSQL",
@@ -154,11 +154,13 @@ const experiences = [
     iconBg: "#383E56",
     date: "Nov 2022 - Nov 2023",
     points: [
-      "Created feature-rich Discord bots with capabilities such as leaderboard table creation, user onboarding, specialized GPT-4 backend querying, and multimedia (image/video) interactions",
+      "Developed a web based data collection platform using Webrtc to collect dataset for training the AI model.",
+      "Implemented a dynamic user interface for the company's website, improving user experience and increasing user engagement",
+      "Executed the development of a Generative AI based voice chatbot which converts text to speech and speech to text",
       "Leveraged GPT-4 backend technology to enable advanced querying and enhance user engagement, ensuring seamless integration of cutting-edge AI into Discord platforms",
-      "Collaborated effectively with interdisciplinary teams, optimizing codebase for performance and implementing robust security measures, resulting in stable, secure, and high-performing Discord bots",
       "Spearheaded the creation of a multifaceted React application, incorporating real-time server status monitoring, interactive user interfaces, and revamped landing pages, elevating user engagement and company visibility",
-      "Leveraged cutting-edge React capabilities to ensure seamless user interactions and implemented dynamic server status monitoring, enhancing overall performance and user satisfaction for the company's digital platforms",
+      "Engineered the development of a React project for a senior care home, incorporating WebRTC and WebSockets for fetching robot feeds. Ensured user-friendly interfaces and seamless functionality, enhancing the overall user experience.",
+      "Enacted cutting-edge React capabilities to ensure seamless user interactions and implemented dynamic server status monitoring, enhancing overall performance and user satisfaction for the company's digital platforms",
     ],
   },
 ];
