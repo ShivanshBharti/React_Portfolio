@@ -35,6 +35,7 @@ import {
   cureya,
   cogni,
   mitra,
+  equentis
 } from "../assets";
 
 export const navLinks = [
@@ -151,7 +152,7 @@ const experiences = [
     title: "Full Stack Developer",
     company_name: "Invento Robotics",
     icon: mitra,
-    iconBg: "#383E56",
+    iconBg: "#000000",
     date: "Nov 2022 - Nov 2023",
     points: [
       "Developed a web based data collection platform using Webrtc to collect dataset for training the AI model.",
@@ -163,6 +164,21 @@ const experiences = [
       "Enacted cutting-edge React capabilities to ensure seamless user interactions and implemented dynamic server status monitoring, enhancing overall performance and user satisfaction for the company's digital platforms",
     ],
   },
+  {
+    title: "Full Stack Developer",
+    company_name: "Equentis(Research and Ranking)",
+    icon: equentis,
+    iconBg: "#ffff",
+    date: "Jan 2024 - Present",
+    points: [
+      "Organized and developed the customer portfolio reactivation process decreasing the operational time 85%.",
+      "Automated the process of uploading market research rules, reducing manual effort.",
+      "Played a key role in deciding the flows, database structures and dictating best practices in REST API development.",
+      "Utilized proficiency in Angular to enhance user interface design and functionality, improving overall user experience on the web application.",
+      "Worked on rendering the angular code with back-end, majorly with the Ag-grid.",
+    ],
+  },
+
 ];
 
 const testimonials = [

@@ -34,6 +34,7 @@ import tesla from "./company/tesla.png";
 import cureya from "./company/cureya.jpeg";
 import cogni from "./company/cognizant.jpeg";
 import mitra from "./company/Mitra.jpeg";
+import equentis from "./company/equentis.png"
 
 import carrent from "./carrent.png";
 import ytubers from "./ytubers.png";
@@ -41,6 +42,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import business from "./businessLoan.png";
 import job from "./job.png";
+
 
 export {
   logo,
@@ -83,4 +85,5 @@ export {
   cureya,
   cogni,
   mitra,
+  equentis,
 };
